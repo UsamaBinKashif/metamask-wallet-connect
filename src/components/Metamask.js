@@ -34,7 +34,7 @@ function Metamask() {
             isWalletInstalled ? (
               <button onClick={connectWallet} className="btn btn-warning text-white">Connect Wallet</button>
             ) : (
-              <p>Install Metamask wallet</p>
+              <p className="text-white">Install Metamask wallet</p>
             )
           }
 
