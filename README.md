@@ -1,2 +1,1 @@
-# metamask-wallet-connect
- 
+I am completing this web3 learning project “Add MetaMask connect button to your react app” on @metaschool\_ and totally enjoying it. Follow the link to start your learning too. 🔮🔮 https://metaschool.so/courses/add-metamask-connect-button-to-your-react-app

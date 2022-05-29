@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #2d3436;
+  background: linear-gradient(315deg, #2d3436 0%, #000000 74%);
+}
+img {
+  width: 10rem;
+  height: 10rem;
+}
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+height: 100vh;
+gap: 20px;
+}
+.navbar{
+  background-image: linear-gradient(#EC9F05,#FF4E00);
+  
+}
